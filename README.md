@@ -10,8 +10,7 @@ Links:
     Necessario para rodar tudo, sem ele, o programa nem roda.
 
   Grid Builder Systeam (GBS)
-    
-    Ele é uma biblioteca por disponibliziar recursos para o jogador construir coisas! ele é muito usado junto com outras bibliotecas!
+    \n Ele é uma biblioteca por disponibliziar recursos para o jogador construir coisas! ele é muito usado junto com outras bibliotecas!
 
   Factory Systeam (FS)
     
