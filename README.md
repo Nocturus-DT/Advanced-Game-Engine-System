@@ -6,20 +6,17 @@ AGES tem um sistema de biblioteca na qual você escolhe como ele deve agir, e vo
 Links:
   
   AGES Base
-    
     Necessario para rodar tudo, sem ele, o programa nem roda.
 
   Grid Builder Systeam (GBS)
-    /n Ele é uma biblioteca por disponibliziar recursos para o jogador construir coisas! ele é muito usado junto com outras bibliotecas!
+    Ele é uma biblioteca por disponibliziar recursos para o jogador construir coisas! ele é muito usado junto com outras bibliotecas!
 
   Factory Systeam (FS)
-    
     É uma biblioteca que ajuda a você a criar um jogo de indstria!
 
     Depencia: GBS
 
   City Systeam (CS)
-    
     É uma biblioteca que ajuda a você a criar um jogo de cidade!
     
     Depencia: GBS
